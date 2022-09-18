@@ -1,0 +1,63 @@
+[
+    {   "id":0,
+        "customerName":"Saurabh Verma",
+        "phoneNumber":"480-342-9032",
+        "address":"1023 E Broadway Rd #12",
+        "loanAmount":"",
+        "interest":"6",
+        "loanTermYears":"4",
+        "loanType":"Home Loan",
+        "description":"Saurabh Verma demands a home loan",
+        "calculatedLoanAmount":""
+    },
+
+    {   "id":1,
+        "customerName":"Blake Lively",
+        "phoneNumber":"480-001-3265",
+        "address":"926 N Heart Rd #143",
+        "loanAmount":"",
+        "interest":"4",
+        "loanTermYears":"2",
+        "loanType":"Marriage Loan",
+        "description":"Blake Lively demands a marriage loan",
+        "calculatedLoanAmount":""
+    },
+
+    {   "id":2,
+        "customerName":"Penelope Cruz",
+        "phoneNumber":"602-904-0045",
+        "address":"305 S Oak Rd #3",
+        "loanAmount":"",
+        "interest":"8",
+        "loanTermYears":"5",
+        "loanType":"Education Loan",
+        "description":"Penelope Cruz demands a education loan",
+        "calculatedLoanAmount":""
+    },
+
+    {   "id":3,
+        "customerName":"Sandra Bullock",
+        "phoneNumber":"480-143-8324",
+        "address":"143 N Grant Rd #45",
+        "loanAmount":"",
+        "interest":"5",
+        "loanTermYears":"3",
+        "loanType":"Health Loan",
+        "description":"Sandra Bullock demands a medical loan",
+        "calculatedLoanAmount":""
+    },
+
+    {   "id":4,
+        "customerName":"Salma Hayek",
+        "phoneNumber":"623-774-2448",
+        "address":"222 E Baker St #9",
+        "loanAmount":"",
+        "interest":"10",
+        "loanTermYears":"1",
+        "loanType":"Vehicle Loan",
+        "description":"Salma Hayek demands a vehicle loan",
+        "calculatedLoanAmount":""
+        }
+
+        
+]
